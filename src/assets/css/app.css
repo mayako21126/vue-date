@@ -1,0 +1,47 @@
+body{
+  background-color: #e0dfe1;
+
+}
+#app1{
+  overflow: hidden;
+  background: orange;
+    /*height: 30px;*/
+}
+.wp{
+  border: 1px solid orange;
+  margin: 0 auto;
+  padding: 0 100px;
+
+}
+.logo{
+  border: 1px solid orange;
+  float: left;
+
+}
+img{
+  border: 1px solid orange;
+
+}
+#wr>ul{
+  border: 1px solid orange;
+  overflow: hidden;
+}
+#wr ul li{
+  float: left;
+  border: 1px solid orange;
+  list-style: none;
+  margin-right: 20px;
+
+}
+li a{
+  /*border: 1px solid green;*/
+  color: black;
+  text-decoration: none;
+  font-size: 20px;
+}
+.tel{
+  float:right;
+  margin-top: -38px;
+  font-size: 20px;
+  color: red;
+}
